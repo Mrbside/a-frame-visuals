@@ -14,5 +14,5 @@ Materials/occlussion-material.js
 
 2- Declare your entity with gltf above the objects you wish to hide, with the name of the component
 
-<a-entity id="box" scale="1 1 1" position="0 0 0" rotation="0 0 0" visible="true" gltf-model="#id_of_my_gltf_in_a-assets" occlusion-material ></a-entity>
------ Declare here entities you want to hide -----
+![a-frame_1 4 0_occlusion_material](https://user-images.githubusercontent.com/9389898/224533495-80f6cb00-0d7b-48d1-9e58-c80dd9e1f098.png)
+
