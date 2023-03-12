@@ -6,7 +6,7 @@ Tested with a-frame 1.4.0, (iOS/Android/PC) in WebAR using Zappar, on insepctor 
 
 How to:
 
-1- Include this script on your html, or copy the a-frame component in you code
+1- Include this script in your html, or copy the a-frame component in you code
 Materials/occlussion-material.js
 
 ![a-frame_1 4 0_occlusion_material](https://user-images.githubusercontent.com/9389898/224532977-501bcd8e-2664-4f60-a62b-66678d2dd8ab.png)
