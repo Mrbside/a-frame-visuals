@@ -1,7 +1,7 @@
 # A-frame-visuals
 I will put here successfully implemented materials and postprocessing visual effects for A-frame on it's last version
 
-# Hide objects behind/inside an invisible GLTF, so "maksing" or "occlusion" effect.
+# Hide objects behind/inside an invisible GLTF, so "masking" or "occlusion" effect.
 Tested with a-frame 1.4.0, (iOS/Android/PC) in WebAR using Zappar, on insepctor works too, I will test this with other A-frame ar libraries and VR
 
 How to:
