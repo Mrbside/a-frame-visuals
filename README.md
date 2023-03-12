@@ -9,24 +9,8 @@ How to:
 1- Include this script on your html, or copy the a-frame component in you code
 Materials/occlussion-material.js
 
-AFRAME.registerComponent('occlusion-material', {
-    init: function() {
-        this.el.addEventListener('model-loaded', e=>{
-            let mesh = this.el.getObject3D('mesh')
-            if (mesh !== undefined) {
-                mesh.traverse(function(node) {
-                if (node.isMesh) {
-                    if (node.material){
-                        console.log(node)
-                        var material = new THREE.MeshBasicMaterial( {colorWrite: false} );
-                        node.material = material;
-                    }
-                }
-                });
-            }
-        });
-    }
-});
+![a-frame_1 4 0_occlusion_material](https://user-images.githubusercontent.com/9389898/224532977-501bcd8e-2664-4f60-a62b-66678d2dd8ab.png)
+
 
 2- Declare your entity with gltf above the objects you wish to hide, with the name of the component
 
