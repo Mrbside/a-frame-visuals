@@ -16,3 +16,5 @@ Materials/occlussion-material.js
 
 
 ![a-frame_1 0_occlusion_materia](https://user-images.githubusercontent.com/9389898/224534563-ad38c7df-fc4b-4f60-9a2c-df40ec8673b8.png)
+
+3- If you want to apply oclussion material to a primitive geometry, use Materials/occlusion-material-primitives.js script instead
